@@ -1,1842 +1,2302 @@
-{
-  "able": {
+[
+  {
+    "word": "able",
     "length": 4,
     "definition": "Having the power, skill, means, or opportunity to do something."
   },
-  "ably": {
+  {
+    "word": "ably",
     "length": 4,
     "definition": "In a competent or skillful way."
   },
-  "area": {
+  {
+    "word": "area",
     "length": 4,
     "definition": "A region or part of a town, a country, or the world."
   },
-  "army": {
+  {
+    "word": "army",
     "length": 4,
     "definition": "An organized military force equipped for fighting on land."
   },
-  "aunt": {
+  {
+    "word": "aunt",
     "length": 4,
     "definition": "The sister of one's father or mother or the wife of one's uncle."
   },
-  "axis": {
+  {
+    "word": "axis",
     "length": 4,
     "definition": "An imaginary line about which a body rotates."
   },
-  "baby": {
+  {
+    "word": "baby",
     "length": 4,
     "definition": "A very young child, especially one newly born or in infancy."
   },
-  "back": {
+  {
+    "word": "back",
     "length": 4,
     "definition": "The rear surface of the human body from the shoulders to the hips."
   },
-  "bail": {
+  {
+    "word": "bail",
     "length": 4,
     "definition": "The temporary release of an accused person awaiting trial, sometimes on condition that a sum of money be lodged to guarantee their appearance in court."
   },
-  "bake": {
+  {
+    "word": "bake",
     "length": 4,
     "definition": "To cook food by dry heat without direct exposure to a flame, typically in an oven."
   },
-  "bald": {
+  {
+    "word": "bald",
     "length": 4,
     "definition": "Having a scalp wholly or partly lacking hair."
   },
-  "ball": {
+  {
+    "word": "ball",
     "length": 4,
     "definition": "A solid or hollow spherical or ovoid object that is kicked, thrown, or hit in a game."
   },
-  "balm": {
+  {
+    "word": "balm",
     "length": 4,
     "definition": "A fragrant cream or liquid used to heal or soothe the skin."
   },
-  "band": {
+  {
+    "word": "band",
     "length": 4,
     "definition": "A small group of musicians and vocalists who play rock, pop, or jazz music."
   },
-  "bane": {
+  {
+    "word": "bane",
     "length": 4,
     "definition": "A cause of great distress or annoyance."
   },
-  "bang": {
+  {
+    "word": "bang",
     "length": 4,
     "definition": "A sudden loud, sharp noise."
   },
-  "bank": {
+  {
+    "word": "bank",
     "length": 4,
     "definition": "A financial establishment that invests money deposited by customers and makes loans."
   },
-  "bare": {
+  {
+    "word": "bare",
     "length": 4,
     "definition": "Not clothed or covered."
   },
-  "bark": {
+  {
+    "word": "bark",
     "length": 4,
     "definition": "The sharp explosive cry of a dog, fox, or seal."
   },
-  "barn": {
+  {
+    "word": "barn",
     "length": 4,
     "definition": "A large farm building used for storing grain, hay, or straw or for housing livestock."
   },
-  "base": {
+  {
+    "word": "base",
     "length": 4,
     "definition": "The lowest part or edge of something, especially the part on which it rests or is supported."
   },
-  "bash": {
+  {
+    "word": "bash",
     "length": 4,
     "definition": "To strike hard and violently."
   },
-  "bask": {
+  {
+    "word": "bask",
     "length": 4,
     "definition": "To lie exposed to warmth and light, typically from the sun, for relaxation."
   },
-  "bass": {
+  {
+    "word": "bass",
     "length": 4,
     "definition": "The lowest adult male singing voice."
   },
-  "bath": {
+  {
+    "word": "bath",
     "length": 4,
     "definition": "An act of washing the whole body by immersing it in water."
   },
-  "bawl": {
+  {
+    "word": "bawl",
     "length": 4,
     "definition": "To shout or cry out noisily and without restraint."
   },
-  "been": {
+  {
+    "word": "been",
     "length": 4,
     "definition": "Past participle of be."
   },
-  "bead": {
+  {
+    "word": "bead",
     "length": 4,
     "definition": "A small piece of glass, stone, or similar material that is threaded with others to make a necklace or rosary."
   },
-  "beak": {
+  {
+    "word": "beak",
     "length": 4,
     "definition": "A bird's horny projecting jaws; a bill."
   },
-  "beam": {
+  {
+    "word": "beam",
     "length": 4,
     "definition": "A ray or shaft of light."
   },
-  "bear": {
+  {
+    "word": "bear",
     "length": 4,
     "definition": "A large, heavy mammal with thick fur and a very short tail."
   },
-  "beat": {
+  {
+    "word": "beat",
     "length": 4,
     "definition": "To strike a person or an animal repeatedly and violently."
   },
-  "beef": {
+  {
+    "word": "beef",
     "length": 4,
     "definition": "The flesh of a cow, bull, or ox, used as food."
   },
-  "beer": {
+  {
+    "word": "beer",
     "length": 4,
     "definition": "An alcoholic drink made from yeast-fermented malt flavored with hops."
   },
-  "beet": {
+  {
+    "word": "beet",
     "length": 4,
     "definition": "A herbaceous plant widely cultivated as a source of food for humans and livestock."
   },
-  "bell": {
+  {
+    "word": "bell",
     "length": 4,
     "definition": "A hollow metal object, typically in the shape of a deep cup, that makes a ringing sound when struck."
   },
-  "belt": {
+  {
+    "word": "belt",
     "length": 4,
     "definition": "A strip of leather or other material worn around the waist."
   },
-  "bend": {
+  {
+    "word": "bend",
     "length": 4,
     "definition": "To shape or force something straight into a curve or angle."
   },
-  "best": {
+  {
+    "word": "best",
     "length": 4,
     "definition": "Of the most excellent or desirable type or quality."
   },
-  "bias": {
+  {
+    "word": "bias",
     "length": 4,
     "definition": "Prejudice in favor of or against one thing, person, or group compared with another."
   },
-  "bevy": {
+  {
+    "word": "bevy",
     "length": 4,
     "definition": "A large group of people or things of a particular kind."
   },
-  "bide": {
+  {
+    "word": "bide",
     "length": 4,
     "definition": "To remain or stay somewhere."
   },
-  "bier": {
+  {
+    "word": "bier",
     "length": 4,
     "definition": "A movable frame on which a coffin or a corpse is placed before burial."
   },
-  "bike": {
+  {
+    "word": "bike",
     "length": 4,
     "definition": "A bicycle or motorcycle."
   },
-  "bilk": {
+  {
+    "word": "bilk",
     "length": 4,
     "definition": "To obtain or withhold money from someone unfairly or by deceit; to cheat."
   },
-  "bill": {
+  {
+    "word": "bill",
     "length": 4,
     "definition": "A printed or written statement of the money owed for goods or services."
   },
-  "bind": {
+  {
+    "word": "bind",
     "length": 4,
     "definition": "To tie or fasten something tightly."
   },
-  "bird": {
+  {
+    "word": "bird",
     "length": 4,
     "definition": "A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak."
   },
-  "bite": {
+  {
+    "word": "bite",
     "length": 4,
     "definition": "To use the teeth to cut into something in order to eat it."
   },
-  "blab": {
+  {
+    "word": "blab",
     "length": 4,
     "definition": "To reveal secrets by indiscreet talk."
   },
-  "blot": {
+  {
+    "word": "blot",
     "length": 4,
     "definition": "A dark mark or stain, typically one made by ink."
   },
-  "blow": {
+  {
+    "word": "blow",
     "length": 4,
     "definition": "Of wind, to move creating an air current."
   },
-  "blue": {
+  {
+    "word": "blue",
     "length": 4,
     "definition": "A color intermediate between green and violet, as of the sky on a clear day."
   },
-  "blur": {
+  {
+    "word": "blur",
     "length": 4,
     "definition": "Something that cannot be seen or heard clearly."
   },
-  "boat": {
+  {
+    "word": "boat",
     "length": 4,
     "definition": "A vessel for travel on water, propelled by oars, sails, or an engine."
   },
-  "body": {
+  {
+    "word": "body",
     "length": 4,
     "definition": "The physical structure, including the bones, flesh, and organs, of a person or an animal."
   },
-  "boil": {
+  {
+    "word": "boil",
     "length": 4,
     "definition": "Of a liquid, to reach the temperature at which it bubbles and turns to vapor."
   },
-  "bold": {
+  {
+    "word": "bold",
     "length": 4,
     "definition": "Of a person, action, or idea, showing an ability to take risks; confident and courageous."
   },
-  "boll": {
+  {
+    "word": "boll",
     "length": 4,
     "definition": "The rounded seed capsule of plants such as cotton or flax."
   },
-  "bolt": {
+  {
+    "word": "bolt",
     "length": 4,
     "definition": "A bar that slides into a socket to fasten a door or window."
   },
-  "bomb": {
+  {
+    "word": "bomb",
     "length": 4,
     "definition": "A container filled with explosive, incendiary material, smoke, gas, or other destructive substance."
   },
-  "bond": {
+  {
+    "word": "bond",
     "length": 4,
     "definition": "A relationship between people or groups based on shared feelings, interests, or experiences."
   },
-  "bone": {
+  {
+    "word": "bone",
     "length": 4,
     "definition": "Any of the pieces of hard, whitish tissue making up the skeleton in humans and other vertebrates."
   },
-  "book": {
+  {
+    "word": "book",
     "length": 4,
     "definition": "A written or printed work consisting of pages glued or sewn together along one side and bound in covers."
   },
-  "boom": {
+  {
+    "word": "boom",
     "length": 4,
     "definition": "A loud, deep, resonant sound."
   },
-  "boon": {
+  {
+    "word": "boon",
     "length": 4,
     "definition": "A thing that is helpful or beneficial."
   },
-  "boor": {
+  {
+    "word": "boor",
     "length": 4,
     "definition": "An unrefined, ill-mannered person."
   },
-  "boot": {
+  {
+    "word": "boot",
     "length": 4,
     "definition": "A sturdy item of footwear covering the foot and ankle, and sometimes also the lower leg."
   },
-  "bosh": {
+  {
+    "word": "bosh",
     "length": 4,
     "definition": "Talk or writing that is foolish or nonsensical."
   },
-  "boss": {
+  {
+    "word": "boss",
     "length": 4,
     "definition": "A person who is in charge of a worker, group, or organization."
   },
-  "both": {
+  {
+    "word": "both",
     "length": 4,
     "definition": "Used to refer to two people or things, regarded and addressed together."
   },
-  "bowl": {
+  {
+    "word": "bowl",
     "length": 4,
     "definition": "A round, deep dish or basin used for food or liquid."
   },
-  "brag": {
+  {
+    "word": "brag",
     "length": 4,
     "definition": "To say something in a boastful manner."
   },
-  "brim": {
+  {
+    "word": "brim",
     "length": 4,
     "definition": "The projecting edge around the bottom of a hat."
   },
-  "brow": {
+  {
+    "word": "brow",
     "length": 4,
     "definition": "A person's forehead."
   },
-  "bulk": {
+  {
+    "word": "bulk",
     "length": 4,
     "definition": "The mass or size of something large."
   },
-  "busy": {
+  {
+    "word": "busy",
     "length": 4,
     "definition": "Having a great deal to do."
   },
-  "cage": {
+  {
+    "word": "cage",
     "length": 4,
     "definition": "A structure of bars or wires in which birds or other animals are confined."
   },
-  "calf": {
+  {
+    "word": "calf",
     "length": 4,
     "definition": "A young bovine animal."
   },
-  "calm": {
+  {
+    "word": "calm",
     "length": 4,
     "definition": "Not showing or feeling nervousness, anger, or other strong emotions."
   },
-  "camp": {
+  {
+    "word": "camp",
     "length": 4,
     "definition": "A place with temporary accommodations of huts, tents, or other structures."
   },
-  "cape": {
+  {
+    "word": "cape",
     "length": 4,
     "definition": "A sleeveless outer garment or part of a garment that hangs from the neck over the back and shoulders."
   },
-  "card": {
+  {
+    "word": "card",
     "length": 4,
     "definition": "A piece of thick, stiff paper or thin pasteboard, in particular one used for writing or printing on."
   },
-  "carp": {
+  {
+    "word": "carp",
     "length": 4,
     "definition": "A deep-bodied freshwater fish, typically with barbels around the mouth."
   },
-  "case": {
+  {
+    "word": "case",
     "length": 4,
     "definition": "An instance of a particular situation; an example of something occurring."
   },
-  "cash": {
+  {
+    "word": "cash",
     "length": 4,
     "definition": "Money in coins or notes, as distinct from checks, money orders, or credit."
   },
-  "cave": {
+  {
+    "word": "cave",
     "length": 4,
     "definition": "A large underground chamber, typically of natural origin, in a hillside or cliff."
   },
-  "cell": {
+  {
+    "word": "cell",
     "length": 4,
     "definition": "The smallest structural and functional unit of an organism."
   },
-  "cent": {
+  {
+    "word": "cent",
     "length": 4,
     "definition": "A monetary unit in various countries, equal to one hundredth of a dollar, euro, or other decimal currency unit."
   },
-  "chat": {
+  {
+    "word": "chat",
     "length": 4,
     "definition": "To talk in a friendly and informal way."
   },
-  "chef": {
+  {
+    "word": "chef",
     "length": 4,
     "definition": "A professional cook, typically the chief cook in a restaurant or hotel."
   },
-  "chin": {
+  {
+    "word": "chin",
     "length": 4,
     "definition": "The protruding part of the face below the mouth, formed by the apex of the lower jaw."
   },
-  "chop": {
+  {
+    "word": "chop",
     "length": 4,
     "definition": "To cut something into pieces with repeated sharp blows of an ax or knife."
   },
-  "city": {
+  {
+    "word": "city",
     "length": 4,
     "definition": "A large town."
   },
-  "clam": {
+  {
+    "word": "clam",
     "length": 4,
     "definition": "A marine bivalve mollusk with shells of equal size."
   },
-  "clap": {
+  {
+    "word": "clap",
     "length": 4,
     "definition": "To strike the palms of one's hands together repeatedly, typically in order to applaud."
   },
-  "clay": {
+  {
+    "word": "clay",
     "length": 4,
     "definition": "A stiff, sticky fine-grained earth that can be molded when wet and is dried and baked to make bricks and pottery."
   },
-  "clue": {
+  {
+    "word": "clue",
     "length": 4,
     "definition": "A piece of evidence or information used in the detection of a crime or solving of a mystery."
   },
-  "clip": {
+  {
+    "word": "clip",
     "length": 4,
     "definition": "A device, typically of metal or plastic, used for fixing or holding things together."
   },
-  "club": {
+  {
+    "word": "club",
     "length": 4,
     "definition": "An association dedicated to a particular interest or activity."
   },
-  "coal": {
+  {
+    "word": "coal",
     "length": 4,
     "definition": "A combustible black or dark brown rock consisting mainly of carbonized plant matter, found mainly in underground deposits."
   },
-  "coat": {
+  {
+    "word": "coat",
     "length": 4,
     "definition": "An outer garment with sleeves, worn outdoors and typically extending below the hips."
   },
-  "code": {
+  {
+    "word": "code",
     "length": 4,
     "definition": "A system of words, letters, figures, or other symbols substituted for other words, letters, etc., for secrecy."
   },
-  "coil": {
+  {
+    "word": "coil",
     "length": 4,
     "definition": "A length of something wound or arranged in a spiral or sequence of rings."
   },
-  "coin": {
+  {
+    "word": "coin",
     "length": 4,
     "definition": "A flat, typically round piece of metal with an official stamp, used as money."
   },
-  "cold": {
+  {
+    "word": "cold",
     "length": 4,
     "definition": "Of or at a low or relatively low temperature, especially when compared with the human body."
   },
-  "colt": {
+  {
+    "word": "colt",
     "length": 4,
     "definition": "A young uncastrated male horse, in particular one less than four years old."
   },
-  "comb": {
+  {
+    "word": "comb",
     "length": 4,
     "definition": "A strip of plastic, metal, or wood with a row of narrow teeth, used for untangling or arranging the hair."
   },
-  "cone": {
+  {
+    "word": "cone",
     "length": 4,
     "definition": "A solid or hollow object that tapers from a circular or roughly circular base to a point."
   },
-  "cook": {
+  {
+    "word": "cook",
     "length": 4,
     "definition": "To prepare food, a dish, or a meal by combining and heating the ingredients in various ways."
   },
-  "about": {
+  {
+    "word": "about",
     "length": 5,
     "definition": "On the subject of; concerning."
   },
-  "above": {
+  {
+    "word": "above",
     "length": 5,
     "definition": "At a higher level or layer."
   },
-  "abuse": {
+  {
+    "word": "abuse",
     "length": 5,
     "definition": "To use something to bad effect or for a bad purpose."
   },
-  "actor": {
+  {
+    "word": "actor",
     "length": 5,
     "definition": "A person whose profession is acting on the stage, in movies, or on television."
   },
-  "adapt": {
+  {
+    "word": "adapt",
     "length": 5,
     "definition": "To make something suitable for a new use or purpose; modify."
   },
-  "admit": {
+  {
+    "word": "admit",
     "length": 5,
     "definition": "To confess to be true or to be the case, typically with reluctance."
   },
-  "adobe": {
+  {
+    "word": "adobe",
     "length": 5,
     "definition": "A kind of clay used as a building material, typically in the form of sun-dried bricks."
   },
-  "adore": {
+  {
+    "word": "adore",
     "length": 5,
     "definition": "To love and respect someone deeply."
   },
-  "adult": {
+  {
+    "word": "adult",
     "length": 5,
     "definition": "A person who is fully grown or developed."
   },
-  "after": {
+  {
+    "word": "after",
     "length": 5,
     "definition": "During the period of time following an event."
   },
-  "again": {
+  {
+    "word": "again",
     "length": 5,
     "definition": "Another time; once more."
   },
-  "agent": {
+  {
+    "word": "agent",
     "length": 5,
     "definition": "A person who acts on behalf of another person or group."
   },
-  "agree": {
+  {
+    "word": "agree",
     "length": 5,
     "definition": "To have the same opinion about something; concur."
   },
-  "ahead": {
+  {
+    "word": "ahead",
     "length": 5,
     "definition": "Further forward in space; in front."
   },
-  "alarm": {
+  {
+    "word": "alarm",
     "length": 5,
     "definition": "An anxious awareness of danger."
   },
-  "album": {
+  {
+    "word": "album",
     "length": 5,
     "definition": "A collection of recordings issued as a single item on CD, record, or another medium."
   },
-  "alert": {
+  {
+    "word": "alert",
     "length": 5,
     "definition": "Quick to notice any unusual and possibly dangerous or difficult circumstances."
   },
-  "alien": {
+  {
+    "word": "alien",
     "length": 5,
     "definition": "A hypothetical or fictional being from another world."
   },
-  "alive": {
+  {
+    "word": "alive",
     "length": 5,
     "definition": "Of a person, animal, or plant, living, not dead."
   },
-  "alley": {
+  {
+    "word": "alley",
     "length": 5,
     "definition": "A narrow passageway between or behind buildings."
   },
-  "allow": {
+  {
+    "word": "allow",
     "length": 5,
     "definition": "To permit something to happen or to permit someone to do something."
   },
-  "alone": {
+  {
+    "word": "alone",
     "length": 5,
     "definition": "Having no one else present; on one's own."
   },
-  "along": {
+  {
+    "word": "along",
     "length": 5,
     "definition": "Moving in a constant direction on a road, path, or any more or less horizontal surface."
   },
-  "amaze": {
+  {
+    "word": "amaze",
     "length": 5,
     "definition": "To surprise someone greatly; fill with astonishment."
   },
-  "ambit": {
+  {
+    "word": "ambit",
     "length": 5,
     "definition": "The scope, extent, or bounds of something."
   },
-  "angel": {
+  {
+    "word": "angel",
     "length": 5,
     "definition": "A spiritual being believed to act as an attendant, agent, or messenger of God."
   },
-  "anger": {
+  {
+    "word": "anger",
     "length": 5,
     "definition": "A strong feeling of annoyance, displeasure, or hostility."
   },
-  "angry": {
+  {
+    "word": "angry",
     "length": 5,
     "definition": "Feeling or showing strong annoyance, displeasure, or hostility."
   },
-  "anime": {
+  {
+    "word": "anime",
     "length": 5,
     "definition": "A style of Japanese film and television animation."
   },
-  "ankle": {
+  {
+    "word": "ankle",
     "length": 5,
     "definition": "The joint connecting the foot with the leg."
   },
-  "apple": {
+  {
+    "word": "apple",
     "length": 5,
     "definition": "A round fruit with firm, white flesh and a green or red skin."
   },
-  "apply": {
+  {
+    "word": "apply",
     "length": 5,
     "definition": "To make a formal application or request."
   },
-  "apron": {
+  {
+    "word": "apron",
     "length": 5,
     "definition": "A protective garment worn over the front of the body to keep clothes clean."
   },
-  "arbor": {
+  {
+    "word": "arbor",
     "length": 5,
     "definition": "A shady garden alcove with sides and a roof formed by trees or climbing plants."
   },
-  "arena": {
+  {
+    "word": "arena",
     "length": 5,
     "definition": "A level area surrounded by seating, in which sports, entertainments, and other public events are held."
   },
-  "argue": {
+  {
+    "word": "argue",
     "length": 5,
     "definition": "To give reasons or cite evidence in support of an idea, action, or theory."
   },
-  "attic": {
+  {
+    "word": "attic",
     "length": 5,
     "definition": "A space or room just below the roof of a building."
   },
-  "audit": {
+  {
+    "word": "audit",
     "length": 5,
     "definition": "An official inspection of an individual's or organization's accounts."
   },
-  "aural": {
+  {
+    "word": "aural",
     "length": 5,
     "definition": "Relating to the ear or the sense of hearing."
   },
-  "avoid": {
+  {
+    "word": "avoid",
     "length": 5,
     "definition": "To keep away from or stop oneself from doing something."
   },
-  "award": {
+  {
+    "word": "award",
     "length": 5,
     "definition": "A prize or other mark of recognition given in honor of an achievement."
   },
-  "awful": {
+  {
+    "word": "awful",
     "length": 5,
     "definition": "Very bad or unpleasant."
   },
-  "badge": {
+  {
+    "word": "badge",
     "length": 5,
     "definition": "A distinctive emblem worn as a mark of office, membership, or achievement."
   },
-  "baker": {
+  {
+    "word": "baker",
     "length": 5,
     "definition": "A person who makes bread and cakes, especially as a trade."
   },
-  "basal": {
+  {
+    "word": "basal",
     "length": 5,
     "definition": "Forming or belonging to a bottom layer or base."
   },
-  "basil": {
+  {
+    "word": "basil",
     "length": 5,
     "definition": "An aromatic annual herb of the mint family, native to tropical Asia."
   },
-  "bazar": {
+  {
+    "word": "bazar",
     "length": 5,
     "definition": "A market in a Middle Eastern country."
   },
-  "beach": {
+  {
+    "word": "beach",
     "length": 5,
     "definition": "A pebbly or sandy shore, especially by the ocean between high- and low-water marks."
   },
-  "beard": {
+  {
+    "word": "beard",
     "length": 5,
     "definition": "A growth of hair on the chin and lower cheeks of a man's face."
   },
-  "begin": {
+  {
+    "word": "begin",
     "length": 5,
     "definition": "To start; perform or undergo the first part of an action or activity."
   },
-  "abject": {
+  {
+    "word": "abject",
     "length": 6,
     "definition": "Experienced or present to the maximum degree, referring to something bad."
   },
-  "aboard": {
+  {
+    "word": "aboard",
     "length": 6,
     "definition": "On or into a ship, aircraft, train, or other vehicle."
   },
-  "absent": {
+  {
+    "word": "absent",
     "length": 6,
     "definition": "Not present in a place, at an occasion, or as part of something."
   },
-  "absurd": {
+  {
+    "word": "absurd",
     "length": 6,
     "definition": "Wildly unreasonable, illogical, or inappropriate."
   },
-  "accent": {
+  {
+    "word": "accent",
     "length": 6,
     "definition": "A distinctive mode of pronunciation of a language, especially one associated with a particular nation or region."
   },
-  "access": {
+  {
+    "word": "access",
     "length": 6,
     "definition": "The means or opportunity to approach or enter a place."
   },
-  "accord": {
+  {
+    "word": "accord",
     "length": 6,
     "definition": "To give or grant someone power, status, or recognition."
   },
-  "across": {
+  {
+    "word": "across",
     "length": 6,
     "definition": "From one side to the other of a place, area, etc."
   },
-  "action": {
+  {
+    "word": "action",
     "length": 6,
     "definition": "The fact or process of doing something, typically to achieve an aim."
   },
-  "active": {
+  {
+    "word": "active",
     "length": 6,
     "definition": "Engaging or ready to engage in physically energetic pursuits."
   },
-  "actual": {
+  {
+    "word": "actual",
     "length": 6,
     "definition": "Existing in fact; real."
   },
-  "acuate": {
+  {
+    "word": "acuate",
     "length": 6,
     "definition": "Sharpened or pointed."
   },
-  "addict": {
+  {
+    "word": "addict",
     "length": 6,
     "definition": "A person who is addicted to a particular substance, typically an illegal drug."
   },
-  "adjust": {
+  {
+    "word": "adjust",
     "length": 6,
     "definition": "To alter or move something slightly in order to achieve the desired fit, appearance, or result."
   },
-  "admire": {
+  {
+    "word": "admire",
     "length": 6,
     "definition": "To regard with respect or warm approval."
   },
-  "aerial": {
+  {
+    "word": "aerial",
     "length": 6,
     "definition": "Existing, happening, or operating in the air."
   },
-  "affair": {
+  {
+    "word": "affair",
     "length": 6,
     "definition": "An event or sequence of events of a specified kind or that has previously been referred to."
   },
-  "afford": {
+  {
+    "word": "afford",
     "length": 6,
     "definition": "To have enough money to pay for."
   },
-  "agency": {
+  {
+    "word": "agency",
     "length": 6,
     "definition": "A business or organization established to provide a particular service."
   },
-  "almost": {
+  {
+    "word": "almost",
     "length": 6,
     "definition": "Not quite; very nearly."
   },
-  "always": {
+  {
+    "word": "always",
     "length": 6,
     "definition": "At all times; on all occasions."
   },
-  "amazon": {
+  {
+    "word": "amazon",
     "length": 6,
     "definition": "A member of a legendary race of female warriors believed to exist in Scythia."
   },
-  "ambush": {
+  {
+    "word": "ambush",
     "length": 6,
     "definition": "A surprise attack by people lying in wait in a concealed position."
   },
-  "amount": {
+  {
+    "word": "amount",
     "length": 6,
     "definition": "A quantity of something, especially the total of a thing or things in number, size, value, or extent."
   },
-  "animal": {
+  {
+    "word": "animal",
     "length": 6,
     "definition": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system."
   },
-  "annual": {
+  {
+    "word": "annual",
     "length": 6,
     "definition": "Occurring once every year."
   },
-  "answer": {
+  {
+    "word": "answer",
     "length": 6,
     "definition": "A thing said, written, or done to deal with or as a reaction to a question, statement, or situation."
   },
-  "appeal": {
+  {
+    "word": "appeal",
     "length": 6,
     "definition": "To make a serious or urgent request, typically to the public."
   },
-  "append": {
+  {
+    "word": "append",
     "length": 6,
     "definition": "To add something to the end of a written document."
   },
-  "around": {
+  {
+    "word": "around",
     "length": 6,
     "definition": "Located or situated on every side."
   },
-  "arrest": {
+  {
+    "word": "arrest",
     "length": 6,
     "definition": "To seize someone by legal authority and take them into custody."
   },
-  "arrive": {
+  {
+    "word": "arrive",
     "length": 6,
     "definition": "To reach a place at the end of a journey or a stage in a journey."
   },
-  "artist": {
+  {
+    "word": "artist",
     "length": 6,
     "definition": "A person who creates paintings or drawings as a profession or hobby."
   },
-  "assign": {
+  {
+    "word": "assign",
     "length": 6,
     "definition": "To allocate a job or duty."
   },
-  "assist": {
+  {
+    "word": "assist",
     "length": 6,
     "definition": "To help someone by doing a share of the work."
   },
-  "assume": {
+  {
+    "word": "assume",
     "length": 6,
     "definition": "To suppose to be the case, without proof."
   },
-  "attach": {
+  {
+    "word": "attach",
     "length": 6,
     "definition": "To fasten or join one thing to another."
   },
-  "attend": {
+  {
+    "word": "attend",
     "length": 6,
     "definition": "To be present at an event, meeting, or function."
   },
-  "behind": {
+  {
+    "word": "behind",
     "length": 6,
     "definition": "At or to the far side or back of something."
   },
-  "basket": {
+  {
+    "word": "basket",
     "length": 6,
     "definition": "A container, typically woven from straw or wire, used for carrying things."
   },
-  "better": {
+  {
+    "word": "better",
     "length": 6,
     "definition": "Of a more excellent or effective type or quality."
   },
-  "borrow": {
+  {
+    "word": "borrow",
     "length": 6,
     "definition": "To take and use something belonging to someone else with the intention of returning it."
   },
-  "bottom": {
+  {
+    "word": "bottom",
     "length": 6,
     "definition": "The lowest point or part."
   },
-  "bottle": {
+  {
+    "word": "bottle",
     "length": 6,
     "definition": "A container, typically made of glass or plastic and with a narrow neck, used for holding drinks."
   },
-  "bourse": {
+  {
+    "word": "bourse",
     "length": 6,
     "definition": "A stock market in a non-English-speaking country, especially France."
   },
-  "breath": {
+  {
+    "word": "breath",
     "length": 6,
     "definition": "The air taken into or expelled from the lungs."
   },
-  "branch": {
+  {
+    "word": "branch",
     "length": 6,
     "definition": "A part of a tree which grows out from the trunk or from a bough."
   },
-  "bridge": {
+  {
+    "word": "bridge",
     "length": 6,
     "definition": "A structure carrying a road, path, railroad, or canal across a river, ravine, road, railroad, or other obstacle."
   },
-  "browse": {
+  {
+    "word": "browse",
     "length": 6,
     "definition": "To scan through a text, website, or collection of data to gain an impression of the contents."
   },
-  "bubble": {
+  {
+    "word": "bubble",
     "length": 6,
     "definition": "A thin sphere of liquid enclosing air or another gas."
   },
-  "abandon": {
+  {
+    "word": "abandon",
     "length": 7,
     "definition": "To cease to support or look after someone; desert."
   },
-  "ability": {
+  {
+    "word": "ability",
     "length": 7,
     "definition": "Possession of the means or skill to do something."
   },
-  "academy": {
+  {
+    "word": "academy",
     "length": 7,
     "definition": "A place of study or training in a special field."
   },
-  "account": {
+  {
+    "word": "account",
     "length": 7,
     "definition": "A report or description of an event or experience."
   },
-  "achieve": {
+  {
+    "word": "achieve",
     "length": 7,
     "definition": "To successfully bring about or reach a desired objective or result by effort, skill, or courage."
   },
-  "actuary": {
+  {
+    "word": "actuary",
     "length": 7,
     "definition": "A person who compiles and analyzes statistics and uses them to calculate insurance risks and premiums."
   },
-  "address": {
+  {
+    "word": "address",
     "length": 7,
     "definition": "The particulars of the place where someone lives or an organization is situated."
   },
-  "admiral": {
+  {
+    "word": "admiral",
     "length": 7,
     "definition": "The commander in chief of a navy."
   },
-  "advance": {
+  {
+    "word": "advance",
     "length": 7,
     "definition": "To move forward in a purposeful way."
   },
-  "afflict": {
+  {
+    "word": "afflict",
     "length": 7,
     "definition": "Of a problem or illness, to cause pain or suffering to; affect or trouble."
   },
-  "affront": {
+  {
+    "word": "affront",
     "length": 7,
     "definition": "An action or remark that causes outrage or offense."
   },
-  "against": {
+  {
+    "word": "against",
     "length": 7,
     "definition": "In opposition to."
   },
-  "alcohol": {
+  {
+    "word": "alcohol",
     "length": 7,
     "definition": "A colorless volatile flammable liquid which is the intoxicating constituent of wine, beer, and other drinks."
   },
-  "anatomy": {
+  {
+    "word": "anatomy",
     "length": 7,
     "definition": "The branch of science concerned with the bodily structure of humans, animals, and other living organisms."
   },
-  "apology": {
+  {
+    "word": "apology",
     "length": 7,
     "definition": "A regretful acknowledgment of an offense or failure."
   },
-  "apparel": {
+  {
+    "word": "apparel",
     "length": 7,
     "definition": "Clothing."
   },
-  "approve": {
+  {
+    "word": "approve",
     "length": 7,
     "definition": "To officially agree to or accept as satisfactory."
   },
-  "article": {
+  {
+    "word": "article",
     "length": 7,
     "definition": "A particular item or object."
   },
-  "average": {
+  {
+    "word": "average",
     "length": 7,
     "definition": "A number expressing the central or typical value in a set of data."
   },
-  "balance": {
+  {
+    "word": "balance",
     "length": 7,
     "definition": "An even distribution of weight enabling someone or something to remain upright and steady."
   },
-  "bargain": {
+  {
+    "word": "bargain",
     "length": 7,
     "definition": "An agreement between two or more parties as to what each party will do for the other."
   },
-  "battery": {
+  {
+    "word": "battery",
     "length": 7,
     "definition": "A container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power."
   },
-  "believe": {
+  {
+    "word": "believe",
     "length": 7,
     "definition": "To accept that something is true, especially without proof."
   },
-  "benefit": {
+  {
+    "word": "benefit",
     "length": 7,
     "definition": "An advantage or profit gained from something."
   },
-  "between": {
+  {
+    "word": "between",
     "length": 7,
     "definition": "At, into, or across the space separating two objects or regions."
   },
-  "biscuit": {
+  {
+    "word": "biscuit",
     "length": 7,
     "definition": "A small baked unleavened cake, typically crisp, flat, and sweet."
   },
-  "buffalo": {
+  {
+    "word": "buffalo",
     "length": 7,
     "definition": "A heavily built wild ox with backward-curving horns, found mainly in the Old World tropics."
   },
-  "cabbage": {
+  {
+    "word": "cabbage",
     "length": 7,
     "definition": "A cultivated plant eaten as a vegetable, having thick green or purple leaves surrounding a dense head of young leaves."
   },
-  "cabinet": {
+  {
+    "word": "cabinet",
     "length": 7,
     "definition": "A cupboard with shelves or drawers for storing or displaying articles."
   },
-  "calvary": {
+  {
+    "word": "calvary",
     "length": 7,
     "definition": "An open-air representation of the Crucifixion."
   },
-  "camphor": {
+  {
+    "word": "camphor",
     "length": 7,
     "definition": "A white, volatile, crystalline substance with an aromatic smell and bitter taste, used in medicine."
   },
-  "capable": {
+  {
+    "word": "capable",
     "length": 7,
     "definition": "Having the ability, fitness, or quality necessary to do or achieve a specified thing."
   },
-  "capital": {
+  {
+    "word": "capital",
     "length": 7,
     "definition": "The most important city or town of a country or region, usually its seat of government."
   },
-  "capsule": {
+  {
+    "word": "capsule",
     "length": 7,
     "definition": "A small case or container, especially a round or cylindrical one."
   },
-  "captain": {
+  {
+    "word": "captain",
     "length": 7,
     "definition": "The person in command of a ship."
   },
-  "caption": {
+  {
+    "word": "caption",
     "length": 7,
     "definition": "A title or brief explanation appended to an article, illustration, cartoon, or poster."
   },
-  "capture": {
+  {
+    "word": "capture",
     "length": 7,
     "definition": "To take into one's possession or control by force."
   },
-  "caramel": {
+  {
+    "word": "caramel",
     "length": 7,
     "definition": "Sugar or syrup heated until it turns brown, used as a flavoring or coloring."
   },
-  "careful": {
+  {
+    "word": "careful",
     "length": 7,
     "definition": "Making sure of avoiding potential danger, mishap, or harm; cautious."
   },
-  "cartoon": {
+  {
+    "word": "cartoon",
     "length": 7,
     "definition": "A simplified or exaggerated drawing of a person or scene, especially for humorous or satirical effect."
   },
-  "cassino": {
+  {
+    "word": "cassino",
     "length": 7,
     "definition": "A card game in which players win cards by matching or combining cards on the table."
   },
-  "catchup": {
+  {
+    "word": "catchup",
     "length": 7,
     "definition": "An alternative spelling of ketchup."
   },
-  "caustic": {
+  {
+    "word": "caustic",
     "length": 7,
     "definition": "Able to burn or corrode organic tissue by chemical action."
   },
-  "censure": {
+  {
+    "word": "censure",
     "length": 7,
     "definition": "To express severe disapproval of someone or something, typically in a formal statement."
   },
-  "centner": {
+  {
+    "word": "centner",
     "length": 7,
     "definition": "A unit of weight, usually 50 kg or 100 kg, used in some European countries."
   },
-  "certain": {
+  {
+    "word": "certain",
     "length": 7,
     "definition": "Known for sure; established beyond doubt."
   },
-  "chaffer": {
+  {
+    "word": "chaffer",
     "length": 7,
     "definition": "To haggle about the terms of an agreement or price of a good."
   },
-  "chamber": {
+  {
+    "word": "chamber",
     "length": 7,
     "definition": "A large room used for formal or public events."
   },
-  "channel": {
+  {
+    "word": "channel",
     "length": 7,
     "definition": "A length of water wider than a strait, joining two larger areas of water, especially two seas."
   },
-  "chaplet": {
+  {
+    "word": "chaplet",
     "length": 7,
     "definition": "A garland or wreath for a person's head."
   },
-  "absolute": {
+  {
+    "word": "absolute",
     "length": 8,
     "definition": "Not qualified or diminished in any way; total."
   },
-  "abstract": {
+  {
+    "word": "abstract",
     "length": 8,
     "definition": "Existing in thought or as an idea but not having a physical or concrete existence."
   },
-  "abutment": {
+  {
+    "word": "abutment",
     "length": 8,
     "definition": "A structure built to support the lateral pressure of an arch or span."
   },
-  "academic": {
+  {
+    "word": "academic",
     "length": 8,
     "definition": "Relating to education and scholarship."
   },
-  "accident": {
+  {
+    "word": "accident",
     "length": 8,
     "definition": "An unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury."
   },
-  "accolade": {
+  {
+    "word": "accolade",
     "length": 8,
     "definition": "An award or privilege granted as a special honor or as an acknowledgment of merit."
   },
-  "accuracy": {
+  {
+    "word": "accuracy",
     "length": 8,
     "definition": "The quality or state of being correct or precise."
   },
-  "accusing": {
+  {
+    "word": "accusing",
     "length": 8,
     "definition": "Indicating a belief in someone's guilt or culpability."
   },
-  "accustom": {
+  {
+    "word": "accustom",
     "length": 8,
     "definition": "To make someone or something accept something as normal or usual."
   },
-  "actually": {
+  {
+    "word": "actually",
     "length": 8,
     "definition": "As the truth or facts of a situation; really."
   },
-  "addition": {
+  {
+    "word": "addition",
     "length": 8,
     "definition": "The action or process of adding something to something else."
   },
-  "analysis": {
+  {
+    "word": "analysis",
     "length": 8,
     "definition": "Detailed examination of the elements or structure of something."
   },
-  "animator": {
+  {
+    "word": "animator",
     "length": 8,
     "definition": "A person who makes animated films."
   },
-  "approach": {
+  {
+    "word": "approach",
     "length": 8,
     "definition": "To come near or nearer to someone or something in distance."
   },
-  "argument": {
+  {
+    "word": "argument",
     "length": 8,
     "definition": "An exchange of diverging or opposite views, typically a heated or angry one."
   },
-  "aromatic": {
+  {
+    "word": "aromatic",
     "length": 8,
     "definition": "Having a pleasant and distinctive smell."
   },
-  "bachelor": {
+  {
+    "word": "bachelor",
     "length": 8,
     "definition": "A man who is not and has never been married."
   },
-  "backhand": {
+  {
+    "word": "backhand",
     "length": 8,
     "definition": "A stroke played with the back of the hand facing the direction of the stroke."
   },
-  "backward": {
+  {
+    "word": "backward",
     "length": 8,
     "definition": "Directed behind or to the rear."
   },
-  "balancer": {
+  {
+    "word": "balancer",
     "length": 8,
     "definition": "A device or mechanism used for balancing a mechanical part or system."
   },
-  "calender": {
+  {
+    "word": "calender",
     "length": 8,
     "definition": "A machine in which cloth or paper is pressed by rollers to glaze or smooth it."
   },
-  "casement": {
+  {
+    "word": "casement",
     "length": 8,
     "definition": "A window or part of a window set on a hinge so that it opens like a door."
   },
-  "castaway": {
+  {
+    "word": "castaway",
     "length": 8,
     "definition": "A person who has been shipwrecked and stranded in an isolated place."
   },
-  "casually": {
+  {
+    "word": "casually",
     "length": 8,
     "definition": "In a relaxed and informal way."
   },
-  "category": {
+  {
+    "word": "category",
     "length": 8,
     "definition": "A class or division of people or things regarded as having particular shared characteristics."
   },
-  "catholic": {
+  {
+    "word": "catholic",
     "length": 8,
     "definition": "Including a wide variety of things; all-embracing."
   },
-  "causeful": {
+  {
+    "word": "causeful",
     "length": 8,
     "definition": "Having a cause or reason."
   },
-  "cavalier": {
+  {
+    "word": "cavalier",
     "length": 8,
     "definition": "Showing a lack of proper concern; offhand."
   },
-  "cerberus": {
+  {
+    "word": "cerberus",
     "length": 8,
     "definition": "In Greek mythology, a multi-headed dog that guards the gates of the Underworld."
   },
-  "ceremony": {
+  {
+    "word": "ceremony",
     "length": 8,
     "definition": "A formal religious or public occasion, typically one celebrating a particular event or anniversary."
   },
-  "children": {
+  {
+    "word": "children",
     "length": 8,
     "definition": "Plural form of child."
   },
-  "climatic": {
+  {
+    "word": "climatic",
     "length": 8,
     "definition": "Relating to climate."
   },
-  "colature": {
+  {
+    "word": "colature",
     "length": 8,
     "definition": "The process of straining or filtering; a substance that has been filtered."
   },
-  "complete": {
+  {
+    "word": "complete",
     "length": 8,
     "definition": "Having all the necessary or appropriate parts."
   },
-  "compound": {
+  {
+    "word": "compound",
     "length": 8,
     "definition": "A thing that is composed of two or more separate elements; a mixture."
   },
-  "concrete": {
+  {
+    "word": "concrete",
     "length": 8,
     "definition": "Existing in a material or physical form; real or solid."
   },
-  "conflict": {
+  {
+    "word": "conflict",
     "length": 8,
     "definition": "A serious disagreement or argument, typically a protracted one."
   },
-  "conserve": {
+  {
+    "word": "conserve",
     "length": 8,
     "definition": "To protect something, especially an environmentally or culturally important place or thing, from harm or destruction."
   },
-  "consider": {
+  {
+    "word": "consider",
     "length": 8,
     "definition": "To think carefully about something, typically before making a decision."
   },
-  "constant": {
+  {
+    "word": "constant",
     "length": 8,
     "definition": "Occurring continuously over a period of time."
   },
-  "continue": {
+  {
+    "word": "continue",
     "length": 8,
     "definition": "To persist in an activity or process."
   },
-  "contract": {
+  {
+    "word": "contract",
     "length": 8,
     "definition": "A written or spoken agreement, especially one concerning employment, sales, or tenancy."
   },
-  "contrast": {
+  {
+    "word": "contrast",
     "length": 8,
     "definition": "The state of being strikingly different from something else in juxtaposition."
   },
-  "converge": {
+  {
+    "word": "converge",
     "length": 8,
     "definition": "Of lines, to tend to meet at a point."
   },
-  "convince": {
+  {
+    "word": "convince",
     "length": 8,
     "definition": "To cause someone to believe firmly in the truth of something."
   },
-  "courtesy": {
+  {
+    "word": "courtesy",
     "length": 8,
     "definition": "The showing of politeness in one's attitude and behavior toward others."
   },
-  "covenant": {
+  {
+    "word": "covenant",
     "length": 8,
     "definition": "An agreement."
   },
-  "critical": {
+  {
+    "word": "critical",
     "length": 8,
     "definition": "Expressing adverse or disapproving comments or judgments."
   },
-  "crotchet": {
+  {
+    "word": "crotchet",
     "length": 8,
     "definition": "A perverse or unfounded belief or notion."
   },
-  "crucible": {
+  {
+    "word": "crucible",
     "length": 8,
     "definition": "A ceramic or metal container in which metals or other substances may be melted or subjected to very high temperatures."
   },
-  "adjective": {
+  {
+    "word": "adjective",
     "length": 9,
     "definition": "A word naming an attribute of a noun, such as sweet, red, or technical."
   },
-  "adjustive": {
+  {
+    "word": "adjustive",
     "length": 9,
     "definition": "Serving or tending to adjust."
   },
-  "admeasure": {
+  {
+    "word": "admeasure",
     "length": 9,
     "definition": "To measure out or apportion."
   },
-  "admission": {
+  {
+    "word": "admission",
     "length": 9,
     "definition": "A statement acknowledging the truth of something."
   },
-  "adoration": {
+  {
+    "word": "adoration",
     "length": 9,
     "definition": "Deep love and respect."
   },
-  "advantage": {
+  {
+    "word": "advantage",
     "length": 9,
     "definition": "A condition or circumstance that puts one in a favorable or superior position."
   },
-  "adventure": {
+  {
+    "word": "adventure",
     "length": 9,
     "definition": "An unusual and exciting, typically hazardous, experience or activity."
   },
-  "adversary": {
+  {
+    "word": "adversary",
     "length": 9,
     "definition": "One's opponent in a contest, conflict, or dispute."
   },
-  "affection": {
+  {
+    "word": "affection",
     "length": 9,
     "definition": "A gentle feeling of fondness or liking."
   },
-  "affiliate": {
+  {
+    "word": "affiliate",
     "length": 9,
     "definition": "To officially attach or connect a subsidiary group or a person to an organization."
   },
-  "afternoon": {
+  {
+    "word": "afternoon",
     "length": 9,
     "definition": "The time from noon or lunchtime to evening."
   },
-  "agreement": {
+  {
+    "word": "agreement",
     "length": 9,
     "definition": "A negotiated and typically legally binding arrangement between parties."
   },
-  "alcoholic": {
+  {
+    "word": "alcoholic",
     "length": 9,
     "definition": "Containing or relating to alcohol."
   },
-  "alligator": {
+  {
+    "word": "alligator",
     "length": 9,
     "definition": "A large semiaquatic reptile similar to a crocodile but with a broader, shorter head."
   },
-  "allotment": {
+  {
+    "word": "allotment",
     "length": 9,
     "definition": "The amount of something allocated to a particular person."
   },
-  "alternate": {
+  {
+    "word": "alternate",
     "length": 9,
     "definition": "To occur in turn repeatedly."
   },
-  "aluminium": {
+  {
+    "word": "aluminium",
     "length": 9,
     "definition": "A light silvery-gray metal."
   },
-  "ambitious": {
+  {
+    "word": "ambitious",
     "length": 9,
     "definition": "Having or showing a strong desire and determination to succeed."
   },
-  "ambulance": {
+  {
+    "word": "ambulance",
     "length": 9,
     "definition": "A vehicle specially equipped for taking sick or injured people to and from the hospital."
   },
-  "anatomism": {
+  {
+    "word": "anatomism",
     "length": 9,
     "definition": "The doctrine that emphasizes the importance of anatomical structure in explaining biological phenomena."
   },
-  "anatomize": {
+  {
+    "word": "anatomize",
     "length": 9,
     "definition": "To dissect a body or plant in order to study its internal parts."
   },
-  "anchorage": {
+  {
+    "word": "anchorage",
     "length": 9,
     "definition": "A place where ships may anchor safely."
   },
-  "applicate": {
+  {
+    "word": "applicate",
     "length": 9,
     "definition": "A mathematical term referring to the ordinate of a point in a three-dimensional coordinate system."
   },
-  "arbitrary": {
+  {
+    "word": "arbitrary",
     "length": 9,
     "definition": "Based on random choice or personal whim, rather than any reason or system."
   },
-  "associate": {
+  {
+    "word": "associate",
     "length": 9,
     "definition": "To connect someone or something with something else in one's mind."
   },
-  "attendant": {
+  {
+    "word": "attendant",
     "length": 9,
     "definition": "A person employed to provide a service to the public in a particular place."
   },
-  "blackmail": {
+  {
+    "word": "blackmail",
     "length": 9,
     "definition": "The action of demanding payment or another benefit from someone in return for not revealing compromising information."
   },
-  "brilliant": {
+  {
+    "word": "brilliant",
     "length": 9,
     "definition": "Exceptionally clever or talented."
   },
-  "broadcast": {
+  {
+    "word": "broadcast",
     "length": 9,
     "definition": "To transmit a program or information by radio or television."
   },
-  "broadwise": {
+  {
+    "word": "broadwise",
     "length": 9,
     "definition": "In the direction of the breadth; across."
   },
-  "cacophony": {
+  {
+    "word": "cacophony",
     "length": 9,
     "definition": "A harsh, discordant mixture of sounds."
   },
-  "calculate": {
+  {
+    "word": "calculate",
     "length": 9,
     "definition": "To determine the amount or number of something mathematically."
   },
-  "capitally": {
+  {
+    "word": "capitally",
     "length": 9,
     "definition": "In a way that is punishable by death; excellently."
   },
-  "carbonade": {
+  {
+    "word": "carbonade",
     "length": 9,
     "definition": "A dish of meat, especially beef, stewed with onions and beer."
   },
-  "celestial": {
+  {
+    "word": "celestial",
     "length": 9,
     "definition": "Positioned in or relating to the sky, or outer space as observed in astronomy."
   },
-  "challenge": {
+  {
+    "word": "challenge",
     "length": 9,
     "definition": "A call to take part in a contest or competition, especially a duel."
   },
-  "character": {
+  {
+    "word": "character",
     "length": 9,
     "definition": "The mental and moral qualities distinctive to an individual."
   },
-  "childhood": {
+  {
+    "word": "childhood",
     "length": 9,
     "definition": "The state or period of being a child."
   },
-  "christian": {
+  {
+    "word": "christian",
     "length": 9,
     "definition": "A person who has received Christian baptism or is a believer in Jesus Christ and his teachings."
   },
-  "chromatic": {
+  {
+    "word": "chromatic",
     "length": 9,
     "definition": "Relating to or produced by color."
   },
-  "churchman": {
+  {
+    "word": "churchman",
     "length": 9,
     "definition": "A male member of the Christian clergy or a church."
   },
-  "circulate": {
+  {
+    "word": "circulate",
     "length": 9,
     "definition": "To move or cause to move continuously or freely through a closed system or area."
   },
-  "clamation": {
+  {
+    "word": "clamation",
     "length": 9,
     "definition": "A loud shouting or calling."
   },
-  "clapboard": {
+  {
+    "word": "clapboard",
     "length": 9,
     "definition": "A long, thin, flat piece of wood with edges horizontally overlapping in series, used to cover the outer walls of buildings."
   },
-  "classical": {
+  {
+    "word": "classical",
     "length": 9,
     "definition": "Relating to ancient Greek or Latin literature, art, or culture."
   },
-  "classmate": {
+  {
+    "word": "classmate",
     "length": 9,
     "definition": "A fellow member of a class at school or college."
   },
-  "clearance": {
+  {
+    "word": "clearance",
     "length": 9,
     "definition": "The action or process of removing or getting rid of something."
   },
-  "collation": {
+  {
+    "word": "collation",
     "length": 9,
     "definition": "The action of collecting and combining texts, information, or sets of figures in proper order."
   },
-  "colleague": {
+  {
+    "word": "colleague",
     "length": 9,
     "definition": "A person with whom one works in a profession or business."
   },
-  "colorless": {
+  {
+    "word": "colorless",
     "length": 9,
     "definition": "Without color."
   },
-  "aberration": {
+  {
+    "word": "aberration",
     "length": 10,
     "definition": "A departure from what is normal, usual, or expected, typically one that is unwelcome."
   },
-  "abstracted": {
+  {
+    "word": "abstracted",
     "length": 10,
     "definition": "Showing a lack of concentration on what is happening around one."
   },
-  "academical": {
+  {
+    "word": "academical",
     "length": 10,
     "definition": "Relating to an academy or other institution of learning."
   },
-  "accelerate": {
+  {
+    "word": "accelerate",
     "length": 10,
     "definition": "To begin to move more quickly."
   },
-  "acceptance": {
+  {
+    "word": "acceptance",
     "length": 10,
     "definition": "The action of consenting to receive or undertake something offered."
   },
-  "accessible": {
+  {
+    "word": "accessible",
     "length": 10,
     "definition": "Able to be reached or entered."
   },
-  "accidental": {
+  {
+    "word": "accidental",
     "length": 10,
     "definition": "Happening by chance, unintentionally, or unexpectedly."
   },
-  "accomplish": {
+  {
+    "word": "accomplish",
     "length": 10,
     "definition": "To achieve or complete successfully."
   },
-  "accomptant": {
+  {
+    "word": "accomptant",
     "length": 10,
     "definition": "An archaic spelling of accountant."
   },
-  "accountant": {
+  {
+    "word": "accountant",
     "length": 10,
     "definition": "A person whose profession is to inspect, keep, or audit accounts."
   },
-  "adaptation": {
+  {
+    "word": "adaptation",
     "length": 10,
     "definition": "The action or process of adapting or being adapted."
   },
-  "additional": {
+  {
+    "word": "additional",
     "length": 10,
     "definition": "Added, extra, or supplementary to what is already present or available."
   },
-  "allocation": {
+  {
+    "word": "allocation",
     "length": 10,
     "definition": "The action or process of distributing something."
   },
-  "apostrophe": {
+  {
+    "word": "apostrophe",
     "length": 10,
     "definition": "A punctuation mark used to indicate either possession or the omission of letters or numbers."
   },
-  "appearance": {
+  {
+    "word": "appearance",
     "length": 10,
     "definition": "The way that someone or something looks."
   },
-  "assessment": {
+  {
+    "word": "assessment",
     "length": 10,
     "definition": "The evaluation or estimation of the nature, quality, or ability of someone or something."
   },
-  "attractive": {
+  {
+    "word": "attractive",
     "length": 10,
     "definition": "Pleasing or appealing to the senses."
   },
-  "background": {
+  {
+    "word": "background",
     "length": 10,
     "definition": "The part of a picture, scene, or design that forms a setting for the main figures or objects."
   },
-  "beneficial": {
+  {
+    "word": "beneficial",
     "length": 10,
     "definition": "Favorable or advantageous; resulting in good."
   },
-  "biographic": {
+  {
+    "word": "biographic",
     "length": 10,
     "definition": "Relating to the details of a person's life."
   },
-  "birthplace": {
+  {
+    "word": "birthplace",
     "length": 10,
     "definition": "The place where a person was born."
   },
-  "bookholder": {
+  {
+    "word": "bookholder",
     "length": 10,
     "definition": "A device for holding a book open."
   },
-  "bridegroom": {
+  {
+    "word": "bridegroom",
     "length": 10,
     "definition": "A man on his wedding day or just before and after the event."
   },
-  "capitalist": {
+  {
+    "word": "capitalist",
     "length": 10,
     "definition": "A wealthy person who uses money to invest in trade and industry for profit."
   },
-  "ceremonial": {
+  {
+    "word": "ceremonial",
     "length": 10,
     "definition": "Relating to or used for formal events of a religious or public nature."
   },
-  "chargeless": {
+  {
+    "word": "chargeless",
     "length": 10,
     "definition": "Having no electrical charge."
   },
-  "checkmated": {
+  {
+    "word": "checkmated",
     "length": 10,
     "definition": "Placed a king in checkmate."
   },
-  "chevisance": {
+  {
+    "word": "chevisance",
     "length": 10,
     "definition": "An unlawful agreement or contract, especially one involving usury."
   },
-  "cognizance": {
+  {
+    "word": "cognizance",
     "length": 10,
     "definition": "Knowledge or awareness."
   },
-  "collateral": {
+  {
+    "word": "collateral",
     "length": 10,
     "definition": "Something pledged as security for repayment of a loan, to be forfeited in the event of a default."
   },
-  "commandery": {
+  {
+    "word": "commandery",
     "length": 10,
     "definition": "A district under the administration of a commander of a military order."
   },
-  "competency": {
+  {
+    "word": "competency",
     "length": 10,
     "definition": "The ability to do something successfully or efficiently."
   },
-  "complement": {
+  {
+    "word": "complement",
     "length": 10,
     "definition": "A thing that completes or brings to perfection."
   },
-  "complicate": {
+  {
+    "word": "complicate",
     "length": 10,
     "definition": "To make something more difficult or confusing by causing it to be more complex."
   },
-  "compounder": {
+  {
+    "word": "compounder",
     "length": 10,
     "definition": "A person who mixes ingredients to create a composite substance."
   },
-  "compressor": {
+  {
+    "word": "compressor",
     "length": 10,
     "definition": "A device for compressing something, especially air."
   },
-  "conception": {
+  {
+    "word": "conception",
     "length": 10,
     "definition": "The action of conceiving a child or of a child being conceived."
   },
-  "conclusion": {
+  {
+    "word": "conclusion",
     "length": 10,
     "definition": "The end or finish of an event or process."
   },
-  "conference": {
+  {
+    "word": "conference",
     "length": 10,
     "definition": "A formal meeting for discussion."
   },
-  "confession": {
+  {
+    "word": "confession",
     "length": 10,
     "definition": "A formal statement admitting that one is guilty of a crime."
   },
-  "confidence": {
+  {
+    "word": "confidence",
     "length": 10,
     "definition": "The feeling or belief that one can rely on someone or something; firm trust."
   },
-  "connection": {
+  {
+    "word": "connection",
     "length": 10,
     "definition": "A relationship in which a person, thing, or idea is linked or associated with something else."
   },
-  "consequent": {
+  {
+    "word": "consequent",
     "length": 10,
     "definition": "Following as a result or effect."
   },
-  "consistent": {
+  {
+    "word": "consistent",
     "length": 10,
     "definition": "Acting or done in the same way over time, especially so as to be fair or accurate."
   },
-  "controller": {
+  {
+    "word": "controller",
     "length": 10,
     "definition": "A person or thing that directs or regulates something."
   },
-  "convention": {
+  {
+    "word": "convention",
     "length": 10,
     "definition": "A way in which something is usually done, especially within a particular area or activity."
   },
-  "coordinate": {
+  {
+    "word": "coordinate",
     "length": 10,
     "definition": "To bring the different elements of a complex activity or organization into a harmonious relationship."
   },
-  "countryman": {
+  {
+    "word": "countryman",
     "length": 10,
     "definition": "A person from the same country as oneself."
   },
-  "cumulative": {
+  {
+    "word": "cumulative",
     "length": 10,
     "definition": "Increasing or increased in quantity, degree, or force by successive additions."
   },
-  "decolorate": {
+  {
+    "word": "decolorate",
     "length": 10,
     "definition": "To remove color from; to bleach."
   },
-  "abstraction": {
+  {
+    "word": "abstraction",
     "length": 11,
     "definition": "The quality of dealing with ideas rather than events."
   },
-  "accelerator": {
+  {
+    "word": "accelerator",
     "length": 11,
     "definition": "A device for increasing the speed of a vehicle's engine."
   },
-  "achievement": {
+  {
+    "word": "achievement",
     "length": 11,
     "definition": "A thing done successfully, typically by effort, courage, or skill."
   },
-  "acknowledge": {
+  {
+    "word": "acknowledge",
     "length": 11,
     "definition": "To accept or admit the existence or truth of."
   },
-  "advertising": {
+  {
+    "word": "advertising",
     "length": 11,
     "definition": "The activity of producing advertisements for commercial products or services."
   },
-  "affectation": {
+  {
+    "word": "affectation",
     "length": 11,
     "definition": "Behavior, speech, or writing that is artificial and designed to impress."
   },
-  "affirmative": {
+  {
+    "word": "affirmative",
     "length": 11,
     "definition": "Agreeing with a statement or to a request."
   },
-  "alternative": {
+  {
+    "word": "alternative",
     "length": 11,
     "definition": "One of two or more available possibilities."
   },
-  "anniversary": {
+  {
+    "word": "anniversary",
     "length": 11,
     "definition": "The date on which an event took place in a previous year."
   },
-  "appointment": {
+  {
+    "word": "appointment",
     "length": 11,
     "definition": "An arrangement to meet someone at a particular time and place."
   },
-  "appropriate": {
+  {
+    "word": "appropriate",
     "length": 11,
     "definition": "Suitable or proper in the circumstances."
   },
-  "approximate": {
+  {
+    "word": "approximate",
     "length": 11,
     "definition": "Close to the actual, but not completely accurate or exact."
   },
-  "arrangement": {
+  {
+    "word": "arrangement",
     "length": 11,
     "definition": "The action, process, or result of arranging or being arranged."
   },
-  "automatical": {
+  {
+    "word": "automatical",
     "length": 11,
     "definition": "An archaic form of automatic."
   },
-  "centrifugal": {
+  {
+    "word": "centrifugal",
     "length": 11,
     "definition": "Moving or tending to move away from a center."
   },
-  "centripetal": {
+  {
+    "word": "centripetal",
     "length": 11,
     "definition": "Moving or tending to move toward a center."
   },
-  "ceremonious": {
+  {
+    "word": "ceremonious",
     "length": 11,
     "definition": "Relating or appropriate to grand and formal occasions."
   },
-  "certificate": {
+  {
+    "word": "certificate",
     "length": 11,
     "definition": "An official document attesting a certain fact."
   },
-  "circulation": {
+  {
+    "word": "circulation",
     "length": 11,
     "definition": "Movement to and fro or around something, especially that of fluid in a closed system."
   },
-  "coefficient": {
+  {
+    "word": "coefficient",
     "length": 11,
     "definition": "A numerical or constant quantity placed before and multiplying the variable in an algebraic expression."
   },
-  "coffeehouse": {
+  {
+    "word": "coffeehouse",
     "length": 11,
     "definition": "A coffee shop."
   },
-  "combination": {
+  {
+    "word": "combination",
     "length": 11,
     "definition": "A joining or merging of different parts or qualities in which the component elements are individually distinct."
   },
-  "comfortable": {
+  {
+    "word": "comfortable",
     "length": 11,
     "definition": "Providing physical ease and relaxation."
   },
-  "communicate": {
+  {
+    "word": "communicate",
     "length": 11,
     "definition": "To share or exchange information, news, or ideas."
   },
-  "comparative": {
+  {
+    "word": "comparative",
     "length": 11,
     "definition": "Perceptible by comparison; relative."
   },
-  "composition": {
+  {
+    "word": "composition",
     "length": 11,
     "definition": "The nature of something's ingredients or constituents; the way in which a whole or mixture is made up."
   },
-  "conditional": {
+  {
+    "word": "conditional",
     "length": 11,
     "definition": "Subject to one or more conditions or requirements being met."
   },
-  "consequence": {
+  {
+    "word": "consequence",
     "length": 11,
     "definition": "A result or effect of an action or condition."
   },
-  "defenseless": {
+  {
+    "word": "defenseless",
     "length": 11,
     "definition": "Without defense or protection; totally vulnerable."
   },
-  "determinant": {
+  {
+    "word": "determinant",
     "length": 11,
     "definition": "A factor which decisively affects the nature or outcome of something."
   },
-  "development": {
+  {
+    "word": "development",
     "length": 11,
     "definition": "The process of developing or being developed."
   },
-  "diagnostics": {
+  {
+    "word": "diagnostics",
     "length": 11,
     "definition": "The practice or techniques of diagnosis."
   },
-  "differently": {
+  {
+    "word": "differently",
     "length": 11,
     "definition": "In a way that is not the same as another or as before."
   },
-  "dimensional": {
+  {
+    "word": "dimensional",
     "length": 11,
     "definition": "Relating to measurement in a particular direction."
   },
-  "disapointed": {
+  {
+    "word": "disapointed",
     "length": 11,
     "definition": "A common misspelling of disappointed."
   },
-  "distraction": {
+  {
+    "word": "distraction",
     "length": 11,
     "definition": "A thing that prevents someone from giving full attention to something else."
   },
-  "domesticate": {
+  {
+    "word": "domesticate",
     "length": 11,
     "definition": "To tame an animal and keep it as a pet or for farm produce."
   },
-  "duplication": {
+  {
+    "word": "duplication",
     "length": 11,
     "definition": "The action or process of duplicating something."
   },
-  "educational": {
+  {
+    "word": "educational",
     "length": 11,
     "definition": "Relating to the provision of education."
   },
-  "efficiently": {
+  {
+    "word": "efficiently",
     "length": 11,
     "definition": "In a way that achieves maximum productivity with minimum wasted effort or expense."
   },
-  "elimination": {
+  {
+    "word": "elimination",
     "length": 11,
     "definition": "The complete removal or destruction of something."
   },
-  "embracement": {
+  {
+    "word": "embracement",
     "length": 11,
     "definition": "The act of accepting or supporting a belief, theory, or change willingly and enthusiastically."
   },
-  "engineering": {
+  {
+    "word": "engineering",
     "length": 11,
     "definition": "The branch of science and technology concerned with the design, building, and use of engines, machines, and structures."
   },
-  "equivalence": {
+  {
+    "word": "equivalence",
     "length": 11,
     "definition": "The condition of being equal or equivalent in value, function, or meaning."
   },
-  "exterminate": {
+  {
+    "word": "exterminate",
     "length": 11,
     "definition": "To destroy completely."
   },
-  "extravagant": {
+  {
+    "word": "extravagant",
     "length": 11,
     "definition": "Lacking restraint in spending money or using resources."
   },
-  "fantastical": {
+  {
+    "word": "fantastical",
     "length": 11,
     "definition": "Based on or existing only in fantasy; unreal."
   },
-  "flexibility": {
+  {
+    "word": "flexibility",
     "length": 11,
     "definition": "The quality of bending easily without breaking."
   },
-  "formulation": {
+  {
+    "word": "formulation",
     "length": 11,
     "definition": "The action of creating or preparing something."
   },
-  "gastromancy": {
+  {
+    "word": "gastromancy",
     "length": 11,
     "definition": "Divination from the sounds or signs of the belly."
   }
-}
+]
